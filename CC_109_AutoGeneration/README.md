@@ -18,7 +18,7 @@
 
 <h3> Result example
 
-![alt text](https://github.com/MericLuc/CC109_AutoGeneration/blob/master/result.png)
+![alt text](https://github.com/MericLuc/Coding-train/blob/master/CC_109_AutoGeneration/result.png)
 
 <h2> Usefull information sources
 
