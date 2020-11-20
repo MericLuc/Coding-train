@@ -21,7 +21,7 @@
 
 <h3> Result example
 
-![alt text](https://github.com/MericLuc/CC117_SevenSegment/blob/master/example.png)
+![alt text](https://github.com/MericLuc/Coding-train/blob/master/CC_117_Seven-Segment-Display/example.png)
 
 <h2> About
 
